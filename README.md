@@ -31,4 +31,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Carlos Simim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-amaral-simim-840683212/)
-[![Gmail Badge](https://img.shields.io/badge/-carlinhossimim@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"carlinhossimim@hotmail.com")](mailto:carlinhossimim@hotmail.com)
+[![Microsoft outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carlinhossimim@hotmail.com)
