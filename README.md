@@ -9,7 +9,7 @@
 
 **Aplicações e Dados**
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -17,7 +17,7 @@
 
 **DevOps**
 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Azure DevOps](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 <br/>
@@ -30,5 +30,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Carlos Simim](https://img.shields.io/badge/-Carlos-Simim-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/carlos-eduardo-amaral-simim-840683212/")](https://www.linkedin.com/in/carlos-eduardo-amaral-simim-840683212/)
+[![Linkedin: Carlos Simim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-amaral-simim-840683212/)
 [![Gmail Badge](https://img.shields.io/badge/-carlinhossimim@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"carlinhossimim@hotmail.com")](mailto:carlinhossimim@hotmail.com)
