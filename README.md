@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias
-- 🎓 &nbsp; Estudando Sistemas de Informação no <a href="https://www.ifsudestemg.edu.br/juizdefora">IF Sudeste MG - Campus Juiz de Fora</a>.
+- 🎓 &nbsp; Cursando Sistemas de Informação no <a href="https://www.ifsudestemg.edu.br/juizdefora">IF Sudeste MG - Campus Juiz de Fora</a>.
 - 💼 &nbsp; Trabalhando como Estagiário de Analista de Requisitos no <a href="https://grupofiscoplan.com.br/">Grupo Fiscoplan</a>
 - 🌱 &nbsp; Aprendendo mais sobre Python, Java, ASP.NET e Entity Framework.
 
