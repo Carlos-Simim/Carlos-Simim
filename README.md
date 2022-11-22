@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias
 - 🎓 &nbsp; Cursando Sistemas de Informação no <a href="https://www.ifsudestemg.edu.br/juizdefora">IF Sudeste MG - Campus Juiz de Fora</a>.
-- 💼 &nbsp; Trabalhando como Estagiário de Analista de Requisitos no <a href="https://grupofiscoplan.com.br/">Grupo Fiscoplan</a>
+- 💼 &nbsp; Trabalhando como Estagiário em Desenvolvimento WEB com ASP.NET no <a href="https://grupofiscoplan.com.br/">Grupo Fiscoplan</a>
 - 🌱 &nbsp; Aprendendo mais sobre Python, Java, ASP.NET e Entity Framework.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
